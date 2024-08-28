@@ -1,5 +1,5 @@
 
-# LangChain Documentation Helper
+# LangChain Knowledge Retrieval Assistant
 
 A repository for learning LangChain by building a generative ai application.
 
@@ -34,7 +34,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd documentation-helper
+  cd Knowledge-Retrieval-Assistant-using-LLM
 ```
 
 Download LangChain Documentation
